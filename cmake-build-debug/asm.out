@@ -1,0 +1,5 @@
+global
+_start
+    mov 60
+    mov rdi, 0
+    syscall

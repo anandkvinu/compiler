@@ -1,0 +1,3 @@
+/Users/anandkvinu/CLionProjects/comp/build/CMakeFiles/comp.dir
+/Users/anandkvinu/CLionProjects/comp/build/CMakeFiles/edit_cache.dir
+/Users/anandkvinu/CLionProjects/comp/build/CMakeFiles/rebuild_cache.dir
